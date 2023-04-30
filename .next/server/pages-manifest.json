@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/digitalize-sua/Biblioteca": "pages/digitalize-sua/Biblioteca.js",
+  "/": "pages/index.js"
+}
